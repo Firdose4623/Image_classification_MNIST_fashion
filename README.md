@@ -63,4 +63,4 @@ This project focuses on building an **image classification model** using the [Fa
 ---
 
 ## 📬 Connect with Me  
-If you find this helpful, feel free to ⭐ the repo and connect with me on [LinkedIn](linkedin.com/in/firdose-anjum-ml).  
+If you find this helpful, feel free to ⭐ the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/firdose-anjum-ml/).  
